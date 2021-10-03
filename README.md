@@ -4,7 +4,7 @@ Trained as an astrophysicist, I have always been a scientist at heart. I started
 
 - 🦄 I’m currently working on [Second State](https://www.secondstate.io/), [WasmEdge Runtime](https://github.com/WasmEdge/WasmEdge) and [ParaState](https://www.parastate.io/).
 - 📝 I wrote a book on [Building Blockchain Apps](https://www.buildingblockchainapps.com/). It was published by Addison-Wesley in 2019.
-- 📚 I am the author of [5 books on software engineering](books.md), and many articles and papers.
+- 📚 I am the author of [6 books on software engineering](books.md), and many articles and papers.
 - 💰 I am a Venture Partner at [SIG Ventures](https://www.crunchbase.com/organization/sig-china) investing in early stage tech and crypto teams.
 - 📫 How to reach me: [Twitter](https://twitter.com/juntao) | [Linkedin](https://www.linkedin.com/in/myuan/)
 - 🧬 I was the Principal Investigator (PI) for several NIH (National Institutes of Health) funded research projects.
