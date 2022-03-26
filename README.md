@@ -2,7 +2,7 @@
 
 Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for cloud computing and blockchain. 
 
-- 🦄 I’m currently working on [Second State](https://www.secondstate.io/), [WasmEdge Runtime](https://github.com/WasmEdge/WasmEdge) and [ParaState](https://www.parastate.io/).
+- 🦄 I’m currently working on [Second State](https://www.secondstate.io/) and [WasmEdge Runtime](https://github.com/WasmEdge/WasmEdge).
 - 📝 I wrote a book on [Building Blockchain Apps](https://www.buildingblockchainapps.com/). It was published by Addison-Wesley in 2019.
 - 📚 I am the author of [6 books on software engineering](books.md), and many articles and papers.
 - 💰 I am a Venture Partner at [SIG Ventures](https://www.crunchbase.com/organization/sig-china) investing in early stage tech and crypto teams.
