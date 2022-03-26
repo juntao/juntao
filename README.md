@@ -8,5 +8,5 @@ Trained as an astrophysicist, I have always been a scientist at heart. I started
 - 📫 How to reach me: [Twitter](https://twitter.com/juntao) | [Linkedin](https://www.linkedin.com/in/myuan/)
 - 🧬 I was the Principal Investigator (PI) for several NIH (National Institutes of Health) funded research projects.
 - 🔭 Fun fact: [My PhD dissertation](https://repositories.lib.utexas.edu/bitstream/handle/2152/1462/yuand14885.pdf) was about super-massive blackholes in QSOs.
-- 🗞 I once published [an article on New York Times](https://archive.nytimes.com/www.nytimes.com/external/venturebeat/2009/10/07/07venturebeat-will-health-20-startups-usher-in-consumer-dr-51571.html).
+- 🗞 I once published [an article on the New York Times](https://archive.nytimes.com/www.nytimes.com/external/venturebeat/2009/10/07/07venturebeat-will-health-20-startups-usher-in-consumer-dr-51571.html).
 - ✈️ Meet me after the quarantine: 🇺🇸 🇹🇼 🇨🇳 
