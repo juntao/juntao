@@ -1,6 +1,6 @@
 ### Michael J. Yuan
 
-Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for cloud computing and blockchain. 
+Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for AI agents on the edge and in the cloud.
 
 - 🦄 I am the founder and maintainer of Linux Foundation / CNCF's [WasmEdge](https://github.com/WasmEdge/WasmEdge) and [LlamaEdge](https://github.com/llamaedge) projects.
 - 🌱 I am also building on [Gaia](https://github.com/GaiaNet-AI/gaianet-node), a network of over 200k AI-based knowledge agents.
