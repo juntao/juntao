@@ -2,7 +2,7 @@
 
 Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for AI agents on the edge and in the cloud. I am
 
-- 🦄 Research and Products at [ByteTrade Labs](https://www.bytetradelab.io)
+- 🦄 Co-founder (Research and Products) at [ByteTrade Labs](https://www.bytetradelab.io).
 - 🚀 Founder and maintainer of Linux Foundation / CNCF's [WasmEdge](https://github.com/WasmEdge/WasmEdge) and [EchoKit](https://github.com/second-state/echokit_server) projects.
 - 🌱 Builder on [Gaia](https://github.com/GaiaNet-AI/gaianet-node), a network of over 700k AI agents.
 - 💰 Venture Partner at [SIG Ventures](https://www.crunchbase.com/organization/sig-china) investing in early stage tech and crypto teams.
