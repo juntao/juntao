@@ -2,10 +2,9 @@
 
 Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for AI agents on the edge and in the cloud. I am
 
-- 🦄 Co-founder (Research and Products) at [ByteTrade Labs](https://www.bytetradelab.io).
+- 🦄 Research and Products at [ByteTrade Labs](https://www.bytetradelab.io).
 - ⚙️ Building infra for AI agents, enabling AI to [trade](https://github.com/second-state/fintool), [pay](https://github.com/second-state/x402-skill), [listen](https://github.com/second-state/qwen3_asr_rs), [speak](https://github.com/second-state/qwen3_tts_rs) and [act](https://github.com/second-state/echokit_server).
 - 🚀 Founder and maintainer of Linux Foundation / CNCF's WebAssembly-based cloud infra project: [WasmEdge](https://github.com/WasmEdge/WasmEdge).
-- 🌱 Builder on [Gaia](https://github.com/GaiaNet-AI/gaianet-node), a network of over 700k nodes running [verified](https://doi.ieeecomputersociety.org/10.1109/MC.2025.3600630) LLM inference on [LlamaEdge](https://github.com/llamaedge/llamaedge).
 - 💰 Venture Partner at [SIG Ventures](https://www.crunchbase.com/organization/sig-china) investing in early stage tech and crypto teams.
 - 📚 Author of [6 books on software engineering](books.md), and many articles and papers.
 - 🧬 Principal Investigator (PI) for several NIH (National Institutes of Health) funded research projects.
