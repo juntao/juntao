@@ -2,8 +2,10 @@
 
 Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for AI agents on the edge and in the cloud. I am
 
-- 🦄 Research and Products at [ByteTrade Labs](https://www.bytetradelab.io). Ask me about how to reduce and optimize your AI spending via hybrid inference, and turn your AI interactions into a knowledge base (company brain).
-- ⚙️ Creator of [VibeKeys](https://vibekeys.dev/vibekeys-max.html) -- the original vibe coding keyboard (+ LCD display of agent status + microphone to voice input + WiFi for remote control)
+- 🦄 Research and Products at [ByteTrade Labs](https://www.bytetradelab.io). Ask me about how to
+  - reduce and optimize your AI spending via hybrid inference, and
+  - turn your AI interactions into a knowledge base (company brain).
+- ⚙️ Creator of [VibeKeys](https://vibekeys.dev/vibekeys-max.html), the original vibe coding keyboard + remote control
 - 🚀 Founder and maintainer of Linux Foundation / CNCF's WebAssembly-based cloud infra project: [WasmEdge](https://github.com/WasmEdge/WasmEdge).
 - 💰 Venture Partner at [SIG Ventures](https://www.crunchbase.com/organization/sig-china) investing in early stage tech and crypto teams.
 - 📚 Author of [6 books on software engineering](books.md), and many articles and peer-reviewed research papers.
@@ -28,7 +30,7 @@ Popular videos and conference talks:
 
 - [Rust is the language of AGI](https://www.youtube.com/watch?v=bbq0b_FpYEY), AI Engineer World's Fair, San Francisco, 2025.
 - [Keynote: An Optimized Linux Stack for GenAI Workloads](https://www.youtube.com/watch?v=pQYyv_y8U-E), KubeCon by Linux Foundation, Hong Kong 2025.
-- [Translate tech talks using open-source models and cloud-native Wasm], Wasm I/O, Barcelona 2025.
+- [Translate tech talks using open-source models and cloud-native Wasm](https://www.youtube.com/watch?v=LZiMEmXtDgI), Wasm I/O, Barcelona 2025.
 - [Keynote: New Advances for Cross-platform AI Applications in Docker](https://www.youtube.com/watch?v=ODhJFe4-n6Y), AI Dev Conference, Paris 2024.
 - [Wasm Is Becoming the Runtime for LLMs](https://www.youtube.com/watch?v=upNNI_b4tNY), KubeCon by Linux Foundation, Chicago 2023.
 - [Build, Share, Run WebAssembly Apps Using the Docker Toolchain](https://www.youtube.com/watch?v=3j915xoDovs), KubeCon by Linux Foundation, Detroit 2022.
