@@ -1,4 +1,4 @@
-### Michael J. Yuan
+### Michael J. Yuan [x](https://x.com/juntao) | [Linkedin](https://www.linkedin.com/in/myuan/)
 
 Trained as an astrophysicist, I have always been a scientist at heart. I started my career as an open source developer at [JBoss](https://en.wikipedia.org/wiki/JBoss_(company)). After the successful exit of JBoss ([acq'ed by Red Hat](https://www.cnet.com/news/red-hat-scoops-up-jboss/)), I went back to academia and was awarded several million dollars in research funding from the NIH (National Institutes of Health) to study digital healthcare. I am now once again working on an open source startup to build the next generation infrastructure for AI agents on the edge and in the cloud. I am
 
@@ -37,17 +37,16 @@ Popular videos and conference talks:
 
 Books I wrote:
 
-- [Building Blockchain Apps.](https://www.amazon.com/Building-Blockchain-Apps-Michael-Yuan-dp-0135172322/dp/0135172322/) Published by Addison-Wesley in 2019. ISBN: 0135172322
-- [Seam Framework: Experience the Evolution of Java EE.](https://www.amazon.com/Seam-Framework-Experience-Evolution-JBoss-ebook/dp/B001UL3AFU/) Published by Prentice Hall in 2009. ISBN: 0137129394.
-- [JBoss Seam: Simplicity and Power Beyond Java EE.](https://www.amazon.com/JBoss-Seam-Simplicity-Power-Beyond/dp/0131347969/) Published by Prentice Hall in 2007. ISBN: 0131347969.
-- [Nokia Smartphone Hacks: Tips & Tools for Your Smallest Computer](https://www.amazon.com/Nokia-Smartphone-Hacks-Smallest-Computer-ebook/dp/B00NJ5SY10/). Published by O'Reilly Media in 2005. ISBN: 0596009615.
-- [Developing Scalable Series 40 Applications: A Guide For Java Developers](https://www.amazon.com/Developing-Scalable-40-Applications-Developers/dp/0321268636/). Published by Addison-Wesley in 2004. ISBN: 0321268636.
-- [Enterprise J2ME: Developing Mobile Java Applications](https://www.amazon.com/Enterprise-J2ME-Developing-Mobile-Applications/dp/0131405306/). Published by Prentice Hall in 2003. ISBN: 0131405306.
+- [Building Blockchain Apps.](https://www.amazon.com/Building-Blockchain-Apps-Michael-Yuan-dp-0135172322/dp/0135172322/) Published by Addison-Wesley in 2019.
+- [Seam Framework: Experience the Evolution of Java EE.](https://www.amazon.com/Seam-Framework-Experience-Evolution-JBoss-ebook/dp/B001UL3AFU/) Published by Prentice Hall in 2009.
+- [JBoss Seam: Simplicity and Power Beyond Java EE.](https://www.amazon.com/JBoss-Seam-Simplicity-Power-Beyond/dp/0131347969/) Published by Prentice Hall in 2007.
+- [Nokia Smartphone Hacks: Tips & Tools for Your Smallest Computer](https://www.amazon.com/Nokia-Smartphone-Hacks-Smallest-Computer-ebook/dp/B00NJ5SY10/). Published by O'Reilly Media in 2005.
+- [Developing Scalable Series 40 Applications: A Guide For Java Developers](https://www.amazon.com/Developing-Scalable-40-Applications-Developers/dp/0321268636/). Published by Addison-Wesley in 2004.
+- [Enterprise J2ME: Developing Mobile Java Applications](https://www.amazon.com/Enterprise-J2ME-Developing-Mobile-Applications/dp/0131405306/). Published by Prentice Hall in 2003.
 
 Buy my products:
 
 - [VibeKeys](https://vibekeys.dev/) is the original mini keyboard for Vibe Coders
 - [EchoKit](https://echokit.dev/) is an AI device that talks to you and acts on your command!
 
-
-Reach me on social media: [Twitter](https://twitter.com/juntao) | [Linkedin](https://www.linkedin.com/in/myuan/)
+Reach me on social media: [x](https://x.com/juntao) | [Linkedin](https://www.linkedin.com/in/myuan/)
